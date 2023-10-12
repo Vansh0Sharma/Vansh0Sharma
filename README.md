@@ -1,11 +1,14 @@
+
+
 <h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
 <h3 align="center">"Crafting User Experiences with Front-End Magic 🚀 | DSA Enthusiast"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh0sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vansh0sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh0sharma" alt="vansh0sharma" /></a> </p>
+
+- 🔭 I’m currently working on **a backend project**
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -30,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh0sharma&show_icons=true&locale=en" alt="vansh0sharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh0sharma&" alt="vansh0sharma" /></p>
+
